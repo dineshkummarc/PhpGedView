@@ -1,5 +1,5 @@
 # PhpGedView
-=======================================================
+======================================================= <br/>
     Version 4.3
     Copyright (C) 2002 to 2010 PGV Development Team. All rights reserved.
 
